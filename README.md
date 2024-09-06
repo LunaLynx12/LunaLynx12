@@ -33,9 +33,5 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cathie02&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
   <br>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathie02&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-  <br>
-  <a href="https://discord.com/users/744905146584006687">
-    <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/744905146584006687" style="display:block; margin:auto;">
-  </a>
 </p>
 </details>
