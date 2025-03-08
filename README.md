@@ -1,13 +1,7 @@
 <h1 align="center">Hi there, I'm LunaLynx12 👋</h1>
-<h3 align="center">Lead Developer at Frostwhisk, with a passion for digital art.</h3>
 
 <p align="center">
   <img width="500" alt="GitHub Metrics" src="https://raw.githubusercontent.com/lunalynx12/lunalynx12/main/github-metrics.svg">
-</p>
-
-<p align="center">
-  🔭 Currently working on <strong>Frostwhisk</strong><br/>
-  👯 Open to collaboration on <a href="https://github.com/lunalynx12/BoostEngine">BoostEngine</a><br/>
 </p>
 
 ---
