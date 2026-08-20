@@ -1,31 +1,61 @@
-<h1 align="center">Hi there, I'm LunaLynx12 👋</h1>
+# Petre Radu Cătălin
 
-<p align="center">
-  <img width="500" alt="GitHub Metrics" src="https://raw.githubusercontent.com/lunalynx12/lunalynx12/main/github-metrics.svg">
-</p>
+**Penetration Tester @ KiwiDefence | Offensive Security · Red Team · Cloud & AI Security**
+
+Based in Brașov, Romania. I specialize in full-scope penetration testing, Active Directory exploitation, 
+cloud security assessments, and AI/ML security evaluations. I help organizations identify critical 
+vulnerabilities and deliver actionable remediation guidance.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/lunalynx12?tab=repositories" target="_blank"><img alt="Repositories" src="https://img.shields.io/badge/-Repositories-000000?style=flat-square&logo=GitHub&logoColor=white"></a>
-  <a href="https://github.com/lunalynx12?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-  <a href="https://github.com/lunalynx12?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
-  <a href="https://github.com/lunalynx12?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-  <a href="https://github.com/lunalynx12?tab=repositories&language=shell" target="_blank"><img alt="Shell" src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-</p>
+## 🛡️ Core Expertise
 
-<p align="center">
-  <a href="https://github.com/lunalynx12" target="_blank"><img alt="Profile Visits" src="https://badges.pufler.dev/visits/lunalynx12/lunalynx12?logo=GitHub&label=Profile%20Visits&color=success&logoColor=white&style=flat-square"/></a>
-  <a href="https://github.com/lunalynx12/lunalynx12" target="_blank"><img alt="Profile Updated" src="https://img.shields.io/github/last-commit/lunalynx12/lunalynx12?label=Profile%20Updated&style=flat-square"></a>
-</p>
+- **Web & API Penetration Testing** — OWASP Top 10, full-stack exploitation
+- **Active Directory & Red Team** — Lateral movement, privilege escalation, MITRE ATT&CK
+- **Cloud Security** — AWS, Azure, GCP misconfiguration audits and IAM exploitation
+- **AI Security** — LLM evaluation, prompt injection testing, AI/ML risk assessment
+- **Compliance** — GDPR assessments, NIS2 implementation support
 
-<details>
-<summary>GitHub Stats</summary>
-<p align="center">
-  <img alt="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=lunalynx12&">
-  <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lunalynx12&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-  <br>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalynx12&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-</p>
-</details>
+---
+
+## 🏆 Certifications & Achievements
+
+- **TryHackMe Junior Penetration Tester (PT1)** — 9/10 flags, 833 pts
+- **OpenAI Cyber Practitioner** + 8 OpenAI PartnerU certifications
+- **Microsoft AI Skills Fest 2026**
+- **AZ-700: Azure Networking Solutions**
+- **HackTheBox Season 9 — Holo Tier**
+- **TryHackMe Industrial Intrusion CTF — Team Rank 6 / 20,220**
+- **100+ total certifications**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+`Python` · `Bash` · `Burp Suite Pro` · `Metasploit` · `Cobalt Strike` · `BloodHound` · `Nmap`  
+`Splunk` · `AWS CLI` · `Azure CLI` · `gcloud` · `Wireshark` · `Wazuh` · `Suricata`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**MalwarePeek**](https://github.com/LunaLynx12/MalwarePeek) | PE file analyzer with static malware detection, packer identification, and YARA scanning | Python |
+| [**PE-Obfuscator**](https://github.com/LunaLynx12/PE-Obfuscator) | C++ compile-time string obfuscation for red team tooling | C++ |
+| [**DLL-Hijack-Detector**](https://github.com/LunaLynx12/DLL-Hijack-Detector) | Identifies DLL hijacking vulnerabilities via Procmon monitoring | Python |
+| [**RogueHotspot**](https://github.com/LunaLynx12/RogueHotspot) | Wi-Fi security testing toolkit | Python |
+| [**Android-Injector**](https://github.com/LunaLynx12/Android-Injector) | Modular payload injection for Android applications | Python |
+
+---
+
+## 🌐 Connect With Me
+
+- **Personal Website:** [petreraducatalin.com](https://petreraducatalin.com)
+- **LinkedIn:** [linkedin.com/in/petreradu](https://www.linkedin.com/in/petreradu/)
+- **Bug Bounty:** [Intigriti](https://app.intigriti.com) · [HackerOne](https://hackerone.com)
+- **Company:** [KiwiDefence](https://kiwidefence.com)
+
+---
+
+*Petre Radu Cătălin — Offensive Security Professional | Brașov, Romania*
